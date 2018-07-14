@@ -1,0 +1,41 @@
+:root {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Nav */
+
+.navbar_back {
+  background-color: white;
+  height: 9rem;
+  z-index: 1;
+  position: relative;
+}
+
+.navbar {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.navbar .img {
+  height: 8rem;
+}
+
+.navbar .p-2 {
+  font-size: 120%;
+}
+
+/* Jumbo */
+
+.jumbo_img {
+  position: fixed;
+  width: 100%;
+  margin-top: -4rem;
+  overflow: hidden;
+  z-index: -1;
+}
+
+/* Header */
+
+.header h1 {
+  color: white;
+}
